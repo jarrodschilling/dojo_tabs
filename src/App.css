@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.jsApp {
+  display: flex;
+  justify-content: left;
+  width: 40%;
+}
+
+.jsBtn {
+  background-color: white;
+  border: 2px solid gray;
+  height: 50px;
+  width: 100px;
+  margin-right:10px;
+}
+
+.jsDisplay {
+  border: 2px solid gray;
+  height: 250px;
+  width: 40%;
+  text-align: left;
+  padding:10px
+}
